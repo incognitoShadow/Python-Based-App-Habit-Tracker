@@ -1,0 +1,12 @@
+{
+    "Rafin": {
+        "password": "1234",
+        "name": "Rafin",
+        "age": 21,
+        "habits": [
+            "Reading",
+            "Sleeping",
+            "Eating"
+        ]
+    }
+}

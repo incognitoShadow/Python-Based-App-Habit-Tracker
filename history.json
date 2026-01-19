@@ -1,0 +1,14 @@
+{
+    "Rafin": {
+        "2026-01-11": {
+            "Reading": "Yes",
+            "Sleeping": "Yes",
+            "Eating": "Yes"
+        },
+        "2026-01-12": {
+            "Reading": "Yes",
+            "Sleeping": "Yes",
+            "Eating": "No"
+        }
+    }
+}
